@@ -1,0 +1,3 @@
+# Syntax Errors - Could be typos or missing characters in your code and this might take some time to find...
+# Runtime Errors - 
+# Logical Errors - are not always obvious to see and don't usua;;y show error messages. Recommend using the nodejs debugger
